@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/reactTaskOne/static/css/main.a1138744.css",
-    "main.js": "/reactTaskOne/static/js/main.e55b3202.js",
-    "index.html": "/reactTaskOne/index.html",
-    "main.a1138744.css.map": "/reactTaskOne/static/css/main.a1138744.css.map",
-    "main.e55b3202.js.map": "/reactTaskOne/static/js/main.e55b3202.js.map"
+    "main.css": "/hebatullahgassem/reactTaskOne/static/css/main.a1138744.css",
+    "main.js": "/hebatullahgassem/reactTaskOne/static/js/main.e55b3202.js",
+    "index.html": "/hebatullahgassem/reactTaskOne/index.html",
+    "main.a1138744.css.map": "/hebatullahgassem/reactTaskOne/static/css/main.a1138744.css.map",
+    "main.e55b3202.js.map": "/hebatullahgassem/reactTaskOne/static/js/main.e55b3202.js.map"
   },
   "entrypoints": [
     "static/css/main.a1138744.css",
